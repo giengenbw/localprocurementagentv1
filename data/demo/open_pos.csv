@@ -1,0 +1,3 @@
+po_number,supplier,material,delivery_date,status
+4500000001,Demo Supplier Alpha,DEMO-100,2026-12-15,open
+4500000002,Demo Supplier Beta,DEMO-200,2026-11-01,overdue

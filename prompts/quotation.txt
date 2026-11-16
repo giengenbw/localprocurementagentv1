@@ -1,0 +1,1 @@
+Extract quotation facts into JSON. Do not calculate. Python performs totals and deviations. Unknown fields are null.

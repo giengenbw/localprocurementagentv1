@@ -1,0 +1,5 @@
+po_number,supplier,material,requested_delivery_date,confirmed_delivery_date,confirmation_received,price_deviation_pct,buyer
+4500000001,Demo Supplier Alpha,DEMO-100,2026-11-20,2026-11-20,true,1.5,Demo Buyer
+4500000002,Demo Supplier Beta,DEMO-200,2026-11-01,2026-11-05,true,4.2,Demo Buyer
+4500000003,Demo Supplier Gamma,DEMO-300,2026-11-25,,false,,Demo Buyer
+4500000004,Demo Supplier Alpha,DEMO-400,2026-10-20,2026-10-20,true,-1.0,Demo Buyer

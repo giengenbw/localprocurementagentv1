@@ -1,0 +1,15 @@
+app:
+  name: Local Procurement AI Agent
+  default_language: de
+  supported_languages: [de, en, zh]
+security:
+  local_only: true
+  require_email_approval: true
+  require_sap_save_approval: true
+  max_attachment_mb: 20
+llm:
+  model: qwen3:4b
+  fallback_mode: deterministic
+sap:
+  dry_run: true
+  element_ids_file: config/sap_element_ids.example.yaml

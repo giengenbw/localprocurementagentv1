@@ -1,0 +1,11 @@
+# Copy this file to a local ignored configuration only after validating IDs
+# in the target SAP GUI release and user layout. Never copy IDs blindly.
+me21n:
+  transaction_field: "wnd[0]/tbar[0]/okcd"
+  vendor_field: ""
+  purchasing_org_field: ""
+  purchasing_group_field: ""
+  company_code_field: ""
+  item_table: ""
+  save_button: "wnd[0]/tbar[0]/btn[11]"
+  status_bar: "wnd[0]/sbar"
